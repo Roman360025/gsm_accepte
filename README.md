@@ -28,3 +28,6 @@ ____
 - Скопируйте данный репозиторий командой `git clone https://github.com/RomanMRR/gsm_accepte.git`
 - `cd gsm_accepte`
 - `python manage.py runserver`
+
+Также вы можете запустить проект при помощи Docker командой:
+`docker-compose up -d`
